@@ -5,13 +5,6 @@
 
 ## Скриншоты программы:
 
-![Календарь](calendar1.png)
-
-
-![Календарь](calendar2.png)
-
+![Календарь](calendar.png)
 
 ![Настройки](settings.png)
-
-
-![Биоритмы](biorythms.png)
